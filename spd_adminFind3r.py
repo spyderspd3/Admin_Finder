@@ -32,8 +32,8 @@ def findAdmin():
 def Credit():
 	Space(9); print "#####################################"
 	Space(9); print "#   +++ Admin Panel Finder v1 +++   #"
-	Space(9); print "# Script by SPYDER SURAJIT PANDA    #"
-	Space(9); print "#       India Is The Best Jai Hind  #"
+	Space(9); print "# Script by SURAJIT PANDA    #"
+	Space(9); print "#   India Is The Best Jai Hind  #"
 	Space(9); print "#####################################"
 
 Credit()
